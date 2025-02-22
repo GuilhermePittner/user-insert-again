@@ -16,4 +16,4 @@ Instead of using traditional CSS files, I opted for Tailwind CSS, which I find t
 ## Screenshot 📸
 Here's a screenshot of the project. If you'd like to try it for yourself, just [click here](link-do-vercel-aqui).
 
-![Screenshot of the Project](public/screenshot.png)
+![Screenshot of the Project](screenshot.png)
